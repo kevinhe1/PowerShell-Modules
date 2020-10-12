@@ -1,3 +1,5 @@
+## Tested with Excel 2010 and greater
+
 function getAllWorkSheets{
     param(
         $excelWorkbook
